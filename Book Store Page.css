@@ -1,0 +1,124 @@
+body {
+    height: 330px;
+    width: 350px;
+}
+
+.book-store-home-page-bg {
+    background-color: #1b1b1b;
+    height: 100vh;
+    background-size: cover;
+}
+
+.book-store-container {
+    font-family: Bree Serif, "Roboto";
+    padding: 20px;
+}
+
+.book-store-main-heading {
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.book-store-top-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+.book-store-header-image {
+    height: 30vh;
+}
+
+.book-store-top-card-text-description {
+    padding: 15px;
+}
+
+.book-store-top-card-heading {
+    color: #183b56;
+    font-size: 15px;
+}
+
+.book-store-top-card-description {
+    color: #06070d;
+    font-size: 12px;
+}
+
+.book-store-top-card-name {
+    color: #183b56;
+    font-size: 10px;
+}
+
+.heading-recommended-books {
+    color: #ffffff;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+
+.popular-book-card {
+    margin-bottom: 10px;
+}
+
+.popular-books-images {
+    height: 20vh;
+}
+
+.popular-books-text {
+    margin-left: 10px;
+}
+
+.popular-books-heading {
+    color: #ffffff;
+    font-size: 13px;
+}
+
+.popular-books-description {
+    color: #ffffff;
+    font-size: 10px;
+}
+
+.wings-of-fire-book-bg-container {
+    background-color: #1b1b1b;
+    height: 100vh;
+    background-size: cover;
+    font-family: Bree Serif, "Roboto";
+}
+
+.wings-of-fire-detail-card-container {
+    padding: 25px;
+    text-align: center;
+}
+
+.wings-of-fire-detail-image {
+    height: 250px;
+    width: 170px;
+    margin-bottom: 20px;
+}
+
+.wings-of-fire-detail-heading {
+    color: white;
+    font-size: 25px;
+}
+
+.wings-of-fire-detail-name {
+    color: #9aa5b1;
+    font-size: 10px;
+}
+
+.wings-of-fire-detail-description {
+    color: #e4e7eb;
+    font-size: 11px;
+}
+
+.wings-of-fire-description {
+    text-align: start;
+}
+
+.btn-primary {
+    font-size: 10px;
+    font-family: "Roboto";
+}
+
+.btn-warning {
+    font-size: 10px;
+    font-family: "Roboto";
+}
