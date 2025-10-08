@@ -1,0 +1,106 @@
+.bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 35vh;
+    background-size: cover;
+    margin-bottom: 13px;
+}
+
+.main-heading {
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto";
+    padding: 15px;
+}
+
+.image {
+    width: 150px;
+}
+
+.heading {
+    color: #151765;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+
+.description {
+    color: #5a7184;
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 0px;
+}
+
+.text-description {
+    text-align: center;
+    margin: 15px;
+}
+
+.jagannadh-bg-container {
+    background-color: #151765;
+    padding: 13px;
+    align-items: center;
+}
+
+.podcast-name {
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.jagannadh-card {
+    margin-top: 8px;
+    padding: 10px;
+}
+
+.paragraph {
+    color: white;
+    font-size: 12px;
+    font-weight: 200;
+    margin-bottom: 10px;
+    margin-top: 8px;
+}
+
+.text-paragraph {
+    padding: 10px;
+}
+
+.name {
+    color: #151765;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 30px;
+}
+
+.podcast-paragraph {
+    color: #5a7184;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 5px;
+}
+
+.time {
+    color: #5a7184;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 15px;
+}
+
+.second-page-btn {
+    background-color: #151765;
+    color: white;
+    width: 20vw;
+    border-radius: 15px;
+    border: none;
+    font-size: 13px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.container {
+    height: 600px;
+    width: 400px;
+}

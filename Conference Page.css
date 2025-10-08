@@ -1,0 +1,46 @@
+.image {
+    width: 100vw;
+}
+
+.main-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+p {
+    color: #5a7184;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: 500;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.card-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 13px;
+    margin-top: 8px;
+}
+
+.conference-things-card {
+    margin-right: 23px;
+    margin-top: 5px;
+    margin-left: 23px;
+}
