@@ -1,0 +1,57 @@
+.bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    height: 600px;
+    width: 400px;
+    background-size: cover;
+}
+
+.card-container {
+
+    padding: 20px;
+}
+
+.carousel-inner {
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.main-heading {
+    color: white;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+
+}
+
+.movie-button {
+    color: #ff8348;
+    border: none;
+    font-size: 11px;
+    font-family: "Roboto";
+    height: 35px;
+    width: 90px;
+    border-radius: 8px;
+
+}
+
+.heading-card {
+    margin-top: 10px;
+}
+
+p {
+    color: white;
+    font-size: 11px;
+    font-family: "Roboto";
+}
+
+.heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 17px;
+}
+
+.image {
+    height: 80px;
+    width: 80px;
+
+}

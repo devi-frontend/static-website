@@ -1,0 +1,30 @@
+.card-container {
+    padding: 20px;
+}
+
+.headings {
+    color: #323f4b;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.description {
+    color: #9aa5b1;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.more-images {
+    padding: 5px;
+}
+
+.embed-responsive {
+    display: flex;
+    gap: 20px;
+
+}
+
+.container {
+    height: 600px;
+    width: 400px;
+}
