@@ -1,0 +1,71 @@
+.top-section-card {
+    background-color: #fb4e71;
+    color: #ffffff;
+    font-family: "Roboto";
+    padding: 12px;
+}
+
+.top-section-heading {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.top-section-description {
+    font-size: 13px;
+}
+
+.bottom-section-card {
+    background-color: #e6f6ff;
+    font-family: "Roboto";
+}
+
+.bottom-section-heading {
+    font-size: 15px;
+    color: #323f4b;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+.bottom-card {
+    background-color: white;
+    margin-left: 13px;
+    margin-right: 13px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.bottom-section-image1 {
+    height: 120px;
+    width: 100px;
+}
+
+.bottom-section-card-left {
+    padding: 10px;
+}
+
+.bottom-card-heading {
+    color: #323f4b;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.bottom-section-card-description {
+    font-size: 12px;
+    color: #888888;
+}
+
+.bottom-section-description {
+    font-size: 10px;
+    width: 85px;
+}
+
+.bottom-section-videos {
+    margin-left: 10px;
+}
+
+.button {
+    text-align: center;
+    padding: 10px;
+}
