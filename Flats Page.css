@@ -1,0 +1,146 @@
+.home-section-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 600px;
+    width: 400px;
+    background-size: cover;
+}
+
+.home-card-container {
+    background-color: #ffffff;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 30px;
+    text-align: center;
+}
+
+.home-section-heading {
+    color: #f19116;
+    font-family: Bree Serif;
+    font-size: 16px;
+}
+
+.home-section-description {
+    color: #7b8794;
+    font-family: Bree Serif;
+    font-size: 12px;
+}
+
+.home-section-button {
+    background-color: #f19116;
+    font-family: Bree Serif;
+    font-size: 12px;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    font-size: 8px;
+    height: 25px;
+    width: 70px;
+}
+
+.list-section-bg-container {
+    background-color: #222222;
+    height: 640px;
+    width: 400px;
+    background-size: cover;
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.list-section-heading {
+    color: #f19116;
+    font-family: Bree Serif;
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+.list-section-image {
+    height: 165px;
+    width: 80px;
+}
+
+.flat-card-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.flat-heading {
+    color: #0f0e46;
+    font-family: Bree Serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.flat-description {
+    padding: 13px;
+}
+
+.flat-text-description {
+    color: #7b8794;
+    font-family: Bree Serif;
+    font-size: 12px;
+}
+
+.list-section-button {
+    background-color: #f19116;
+    font-family: Bree Serif;
+    font-size: 12px;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    font-size: 8px;
+    height: 25px;
+    width: 70px;
+}
+
+.detail-view-image {
+    height: 31vh;
+}
+
+.detail-view-heading {
+    color:  #f19116;
+    font-family: Bree Serif;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.detail-view-bg-container {
+    background-color: #222222;
+    height: 330px;
+    width: 333px;
+    padding: 25px;
+}
+
+.location-image {
+    height: 4vh;
+}
+
+.detail-view-description {
+    color:  #ffffff;
+    font-family: Bree Serif;
+    font-size: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+.detail-view-text-description {
+    color:  #ffffff;
+    font-family: Bree Serif;
+    font-size: 10px;
+    padding: 10px;
+    margin-top: 0px;
+}
+
+.detail-view-button {
+     background-color: #f19116;
+    font-family: Bree Serif;
+    font-size: 12px;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    font-size: 8px;
+    height: 25px;
+    width: 70px;
+    margin-right: 13px;
+}
