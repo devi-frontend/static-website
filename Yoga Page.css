@@ -1,87 +1,90 @@
-.container {
-    height: 600px;
-    width: 900px;
-}
-
-
-
-
 .bg-container {
-    background-image: url("http://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    height: 100vh;
     background-size: cover;
-    height: 130vh;
-    font-family: "roboto";
+    padding: 25px;
     text-align: center;
 }
 
-.main-heading {
-    font-size: 23px;
-    font-weight: bold;
+.yoga-homepage-heading {
     color: #132d84;
-    padding: 50px;
-    margin: 25px;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.yoga-girl-image {
+    height: 190px;
+    width: 180px;
+    margin-top: 180px;
+}
+
+p {
+    font-size: 13px;
+    font-family: "Roboto";
+}
+
+.home-page-button {
+    background-color: #132d84;
+    color: #fad693;
+    height: 25px;
+    width: 70px;
+    font-family: "Roboto";
+    font-size: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.yogapage-bg-container {
+    background-color: #ffedcb;
+    height: 150vh;
+    background-size: cover;
+    padding: 25px;
+    text-align: center;
+}
+
+.yoga-page-girl-image {
+    height: 190px;
+    width: 180px;
+    margin-bottom: 15px;
+}
+
+.types-of-yoga-heading {
+    color: #132d84;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+     margin-bottom: 25px;
+}
+
+.yoga-type-container {
+    background-color: #ffe2ab;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 10px;
 }
 
 .image {
-    height: 50vh;
-    width: 50vw;
-    margin: 25px;
+    height: 13vh;
 }
 
-.paragraph {
-    font-weight: 500;
-}
-
-.button {
-    background: #132d84;
-    color: #fad693;
-    padding: 8px;
-    border-radius: 5px;
+.yoga-heading {
+    color: #253263;
+    font-family: "Roboto";
     font-size: 13px;
+    font-weight: bold;
 }
 
-.bg-container-2 {
-    background-color: #ffedcb;
-    height: 200vh;
-    background-size: cover;
-    text-align: center;
+.yoga-description {
+    text-align: start;
+    margin-left: 15px;
+    color: #323f4b;
+    font-size: 8px;
+    font-family: "Roboto";
 }
 
-.image-2 {
-    height: 50vh;
-    width: 55vw;
-    margin: 25px;
-}
-
-.main-heading-1 {
-    color: #132d84;
-    font-size: 23px;
-}
-
-.card-image {
-    height: 20vh;
-    width: 20vw;
-    margin: 13px;
-}
-
-.card {
-    height: 25vh;
-    margin: 20px;
-    border-radius: 13px;
-    background-color: #ffe2ab;
-    font-family: "roboto";
-    text-align: left;
-}
-
-.card-heading {
-    font-size: 18px;
-    color: #132d84;
-    font-weight: 500;
-    margin: 18px;
-}
-
-.card-description {
-    font-size: 14px;
-    color: #132d84;
-    font-weight: 500;
+.yoga-text-description {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 10px;
 }
