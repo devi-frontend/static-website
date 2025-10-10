@@ -1,0 +1,73 @@
+.article-page-bg-container {
+    background-color: #225db0;
+    height: 600px;
+    width: 400px;
+    background-size: cover;
+    padding: 30px;
+}
+
+.article-page-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 27px;
+}
+
+.article-page-description {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.article-card-container {
+    background-color: #ffffff;
+    padding: 10px;
+    height: 80px;
+    width: 120px;
+    border-radius: 8px;
+    text-align: center;
+    margin-right: 15px;
+    margin-bottom: 13px;
+}
+
+.icon-image {
+    height: 5vh;
+}
+
+.article-name {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 11px;
+    padding: 8px;
+}
+
+.Technology-page-bg-container {
+    background-color: #225db0;
+    height: 600px;
+    width: 400px;
+    background-size: cover;
+    padding: 30px;
+}
+
+.Technology-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.list {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #225db0;
+    border: 1px solid #ffffff;
+    height: 20px;
+    width: 40px;
+    font-size: 10px;
+}
