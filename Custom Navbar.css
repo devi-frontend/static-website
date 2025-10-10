@@ -1,0 +1,11 @@
+.navbar-logo {
+    color: white;
+    font-family: "Roboto";
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 24px;
+    font-weight: 700;
+}

@@ -1,0 +1,20 @@
+
+h1 {
+    color: white;
+    background-color: burlywood;
+    font-family: "Open Sans";
+    padding: 20px;
+}
+
+
+.black-text {
+    color: black !important;
+}
+
+.green-text {
+    color: green;
+}
+
+#orangeText {
+    color: orange;
+}

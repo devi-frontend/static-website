@@ -1,0 +1,25 @@
+.todo-list-container {
+    background-color: #f6f5f1;
+    padding: 10px;
+}
+
+h1 {
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+#todayHeading {
+    color: blue;
+}
+
+li {
+    font-family: "Roboto";
+    font-weight: 500;
+    padding: 10px;
+}
+
+.completed {
+    color: grey;
+    text-decoration: line-through;
+    font-style: italic;
+}
