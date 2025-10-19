@@ -1,0 +1,49 @@
+.image {
+    width: 100%;
+}
+
+.card {
+    background-color: white;
+}
+
+.main-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.heading {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold; 
+}
+
+.description {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 400; 
+}
+.read-link {
+     color: #1754a1;
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: 600; 
+}
+
+.btn {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 15px;
+    background-color: #1754a1;
+    height: 45px;
+    width: 150px;
+    border-radius: 4px;
+}
+
+
+
+
+

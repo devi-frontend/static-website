@@ -1,0 +1,35 @@
+.Features-card {
+    background-color: white;
+}
+
+.main-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.image {
+    height: 10vh;
+}
+
+.heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 400; 
+}
+
+.description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+span {
+     color: #1f2933;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 600; 
+}

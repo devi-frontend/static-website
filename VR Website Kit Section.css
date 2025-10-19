@@ -1,0 +1,22 @@
+.main-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.vr-card {
+    background-color: white;
+}
+
+.image {
+    height: 220px;
+    width: 170px;
+}
+
+.heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 400;
+}

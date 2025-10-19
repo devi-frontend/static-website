@@ -1,0 +1,30 @@
+.vr-card {
+    background-color: white;
+}
+
+.image {
+    width: 100%;
+}
+
+.heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 33px;
+    font-weight: bold;
+}
+
+.description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.btn {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 15px;
+    height: 40px;
+    width: 115px;
+    border-radius: 4px;
+    background-color: #1a2137;
+}
