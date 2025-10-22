@@ -1,0 +1,55 @@
+.protfolio-logo {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+    border-color: #4b6cc1;
+    border-style: solid;
+    border-width: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.protfolio-bg {
+    background-color: #191a1d;
+    height: 130vh;
+    padding: 20px;
+}
+
+.image {
+    height:280px;
+}
+
+.protfolio-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 400;
+}
+
+span {
+    color: #4b6cc1;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.protfolio-description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.protfolio-btn {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 18px;
+    background-color: #4b6cc1;
+    height: 50px;
+    width: 150px;
+    border: none;
+    border-radius: 8px;
+}
+

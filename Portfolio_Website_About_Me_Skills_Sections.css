@@ -1,0 +1,58 @@
+.portfolio-website-bg {
+    background-color: #323f4b;
+    padding: 15px;
+}
+
+.portfolio-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.portfolio-sub-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.image {
+    width: 100%;
+}
+
+.description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.skill-name {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.course-bg-container {
+    background-color: #1f2933;
+    padding: 15px;
+}
+
+.skill-card {
+    background-color: #323f4b;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    height: 150px;
+    width: 170px;
+    border-radius: 8px;
+    
+}
+
+.skills-image {
+    height: 70px;
+    width: 70px;
+}

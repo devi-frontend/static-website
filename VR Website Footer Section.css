@@ -1,0 +1,56 @@
+.footer-section-bg {
+    background-color: #19232d;
+    padding: 20px;
+}
+
+.logo-image {
+    height: 8vh;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 25px;
+}
+
+.icon-bg {
+    background-color: #202b36;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    padding-top: 19px;
+    padding-left: 16px;
+    padding-right: 25px;
+    padding-bottom: 18px;
+}
+
+.description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.heading {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.vr-footer-section-list {
+    padding-left: 0px;
+    list-style-type: none;
+}
+
+.horizontal-line {
+    background-color: #5a7184 ;
+}
+
+.footer-description {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 20px;
+    margin-top: 5px;
+}
