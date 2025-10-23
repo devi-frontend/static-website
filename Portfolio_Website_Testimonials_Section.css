@@ -1,0 +1,43 @@
+.testimonials-section-bg {
+    background-color: #1f2933;
+    padding: 25px;
+}
+
+.testimonials-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.testimonials-sub-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.testimonial-card {
+    background-color: #323f4b;
+    padding: 25px;
+}
+
+.image {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.person-name {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 400;
+}

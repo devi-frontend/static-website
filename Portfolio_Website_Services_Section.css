@@ -1,0 +1,42 @@
+.portfolio-website-bg {
+    background-color: #52606d;
+    padding: 20px;
+}
+
+.portfolio-website-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.portfolio-website-sub-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.website-card {
+    background-color: #323f4b;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.image {
+    height: 60px;
+    width: 60px;
+}
+
+.website-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.website-description {
+    color: #52606d;
+    font-family: "Roboto";
+    font-size: 25px;
+}

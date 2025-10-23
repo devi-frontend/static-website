@@ -1,0 +1,56 @@
+.portfolio-projects-bg {
+    background-color: #3e4c59;
+    padding: 15px;
+}
+
+.portfolio-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.portfolio-sub-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 42px;
+    font-weight: 600;
+}
+
+.image {
+    width: 100%;
+}
+
+.projects-card {
+    background-color: #323f4b;
+    padding: 20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.project-heading {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.project-sub-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.read-more {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 600;
+}
+
