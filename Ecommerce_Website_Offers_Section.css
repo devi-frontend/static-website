@@ -1,0 +1,31 @@
+.offer-section-bg {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    padding: 20px;
+}
+
+
+.heading {
+    color: #ad2167;
+    font-family: "Bree Serif";
+    font-size: 33px;
+    font-weight: 400;
+}
+
+.description {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 21px;
+}
+
+.description-span {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 21px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.discount-image {
+    width: 250px;
+    margin: 10px;
+}

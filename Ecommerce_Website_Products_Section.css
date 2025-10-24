@@ -1,0 +1,100 @@
+.products-section-bg {
+    background-color: #ffffff;
+    padding: 15px;
+}
+
+.main-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.smart-phone-card-bg {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    padding: 20px;
+    height: 328px;
+    border-radius: 16px;
+}
+
+.phone-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.head-phone-description {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.button {
+    background-color: #ffffff;
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: 600;
+    border: none;
+    height: 35px;
+    width: 120px;
+    border-radius: 18px;
+}
+
+.modal-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.modal-body {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.item-list {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.item-list-category {
+    font-weight: bold;
+}
+
+.modal-button {
+    background-color: transparent;
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 15px;
+    border-color: #323f4b;
+    border-width: 2px;
+    border-style: solid;
+    height: 35px;
+    width: 90px;
+    border-radius: 4px;
+}
+
+.item-list-card {
+    list-style-type: none;
+    padding-left: 3px;
+}
+
+.laptop-card-bg {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    padding: 20px;
+    height: 328px;
+    border-radius: 16px;
+}
+
+.offers {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 400;
+}
