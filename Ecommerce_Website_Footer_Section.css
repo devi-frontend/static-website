@@ -1,0 +1,61 @@
+.footer-section-bg-container {
+    background-color: #0d2436;
+    padding: 15px;
+}
+
+.footer-image {
+    height: 10vh;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.icon-background {
+    background-color: #152c3e;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 18px;
+    padding-right: 12px;
+    margin-right: 8px;
+}
+
+.footer-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.footer-list-heading {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.footer-list-card {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.list-item {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 400;
+    text-align: start;
+}
+
+.hr-line {
+    background-color: #5a7184;
+}
+
+.footer-section-copyright {
+     color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}

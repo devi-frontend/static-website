@@ -1,0 +1,49 @@
+.bg-container {
+    background-color: #f5f7fa;
+    padding: 10px;
+}
+
+.main-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.card-container {
+    border-radius: 8px;
+    background-color: #ffffff;
+}
+
+.heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.images {
+    height: 135px;
+    width: 150px;
+    border-radius: 25px;
+}
+
+.electonics-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 25px;
+    text-align: center;
+}
+
+.link {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.tv-image {
+    border-radius: 20px;
+}

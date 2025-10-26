@@ -1,0 +1,23 @@
+.background {
+   background-color: #f5f7fa;
+   padding: 20px;
+}
+
+.heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 38px;
+    font-weight: bold;
+}
+
+.contact-button {
+    background-color: transparent;
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 20px;
+    height: 45px;
+    width: 170px;
+    border-color: #ff9f00;
+    border-width: 3px;
+    border-style: solid;
+}
