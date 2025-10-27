@@ -1,0 +1,20 @@
+.deliver-section-image {
+    height: 22vh;
+}
+
+.deliver-section-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+.deliver-section-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: 400;
+    margin-top: 0px;
+    text-align: start;
+}

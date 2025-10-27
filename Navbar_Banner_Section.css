@@ -1,0 +1,65 @@
+.logo {
+    height: 6vh;
+}
+
+#list-item1 {
+   font-weight: 600;
+   margin-left: 35px;
+}
+
+#list-item2 {
+   font-weight: 600;
+   margin-left: 35px;
+}
+
+#list-item3 {
+   font-weight: 600;
+   margin-left: 35px;
+}
+
+#list-item4 {
+   font-weight: 600;
+   margin-left: 35px;
+}
+
+#list-item5 {
+   font-weight: 600;
+   margin-left: 35px;
+}
+
+.banner-section-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+    background-size: cover;
+    padding: 20px;
+    height: 100vh;
+    text-align: center;
+}
+
+.banner-section-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: bold;
+}
+
+span {
+    color: #ffdda9;
+}
+
+.banner-section-description {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.banner-section-button {
+    background-color: #ffdda9;
+    color: black;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+    height: 50px;
+    width: 170px;
+    border: none;
+    border-radius: 22px;
+}

@@ -1,0 +1,32 @@
+.feature-section-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.feature-section-description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.features-image {
+    height: 13vh;
+}
+
+.features-section-card-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.features-section-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: 600;
+}
+    
